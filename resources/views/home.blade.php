@@ -1336,9 +1336,9 @@
                 <div class="footer-links">
                     <h5>Contact</h5>
                     <ul>
-                        <li><a href="tel:+18005551234"><i class="fas fa-phone me-2"></i> +1 (800) 555-1234</a></li>
-                        <li><a href="mailto:info@tourvista.com"><i class="fas fa-envelope me-2"></i> info@tourvista.com</a></li>
-                        <li><a href="#"><i class="fas fa-map-marker-alt me-2"></i> 123 Travel St, New York</a></li>
+                        <li><a href="tel:+918501807576"><i class="fas fa-phone me-2"></i> +91 8501807576</a></li>
+                        <li><a href="mailto:santhoshthouda7576@gmail.com"><i class="fas fa-envelope me-2"></i> santhoshthouda7576@gmail.com</a></li>
+                        <li><a href="#"><i class="fas fa-map-marker-alt me-2"></i> Hyderabad, India</a></li>
                     </ul>
                 </div>
             </div>
